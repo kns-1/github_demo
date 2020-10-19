@@ -1,2 +1,2 @@
 # github_demo
-This is for the demonstration of introduction to git to bunny.
+This is for the demonstration of introduction to git to students.
